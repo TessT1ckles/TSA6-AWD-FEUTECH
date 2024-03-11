@@ -103,3 +103,26 @@ footer {
         margin-bottom: 20px;
     }
 }
+
+@media (max-width: 768px) {
+    .main-form {
+        padding: 20px 0;
+    }
+
+    .forms {
+        max-width: 100%;
+    }
+
+    .user-sign {
+        flex-direction: column;
+        padding: 20px;
+    }
+
+    .sign-btn {
+        margin-bottom: 20px;
+    }
+
+    .main-data {
+        padding: 20px;
+    }
+}
